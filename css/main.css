@@ -1,0 +1,40 @@
+#info {
+  display: none;
+}
+/*body {
+  text-align: center;
+}*/
+/*.container {
+  text-align: center;
+}*/
+
+h1, h3 {
+  text-align: center;
+}
+
+.space {
+  background-color: grey;
+  height: 20px;
+  margin: 2px;
+  padding-top: 70px;
+  border-radius: 10px;
+  width: 31%;
+  float: left;
+}
+
+.col-xs-3 {
+  width: 75px;
+}
+
+.row {
+  width: 240px;
+}
+
+.board {
+  margin: 0 auto;
+}
+.top-level, .mid-level, .bottom-level {
+  margin-bottom: 20px;
+  text-align: center;
+  width: inherit;
+}
